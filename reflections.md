@@ -1,0 +1,3 @@
+What challenges did you face when refactoring your code to use Tailwind?--> Since Tailwind utilities often differ from the CSS target attributes, I had to consult the documentation often to find the corresponding utility. 
+How did using Bootstrap utility classes and components simplify your styling process?--> It was much easier to track parent/child relationships when adding utilities. I enjoyed adding the styling directly to the attributes I modified. After a while, Tailwind started to feel more intuitive than CSS. 
+In what scenarios might you choose not to use Bootstrap and write custom CSS instead?--> During this exercise, I struggled to figure out how to add a top margin for my containers using Tailwind. I chose to use CSS to address this issue. 
